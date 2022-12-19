@@ -1,0 +1,10 @@
+{
+	"idle_anim": "andrea idle menu",
+	"image": "Menu_Andrea",
+	"position": [
+		95,
+		185
+	],
+	"scale": 0.45,
+	"confirm_anim": "M Dad Idle"
+}

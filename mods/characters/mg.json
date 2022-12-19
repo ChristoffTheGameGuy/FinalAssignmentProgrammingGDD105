@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "andrea idle"
+		},
+		{
+			"offsets": [
+				130,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "andrea sing note left"
+		},
+		{
+			"offsets": [
+				-50,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "andrea sing note down"
+		},
+		{
+			"offsets": [
+				5,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "andrea sing note up"
+		},
+		{
+			"offsets": [
+				40,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "andrea sing note right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MG_Sans_assets",
+	"position": [
+		0,
+		44
+	],
+	"healthicon": "mg",
+	"flip_x": false,
+	"healthbar_colors": [
+		220,
+		2,
+		0
+	],
+	"camera_position": [
+		140,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
